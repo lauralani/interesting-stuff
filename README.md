@@ -7,3 +7,4 @@ A list of cool things, curated by me 🌠
 - [LittleLink](https://demo.littlelink-custom.com/): linktree alternative with php
 - [YourSpotify](https://github.com/Yooooomi/your_spotify): Spotify Dashboard for statistics and fun
 - [MDwiki](https://dynalon.github.io/mdwiki/#!faq.md) oder [Gollum](https://github.com/gollum/gollum): Wikis
+- [Wormhole](https://magic-wormhole.readthedocs.io/en/latest/welcome.html): send files, p2p?
